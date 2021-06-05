@@ -68,12 +68,12 @@ Berdasarkan riset dari tim moodo, selain dengan berdoa, journaling juga merupaka
     </thead>
     <tbody>
         <tr>
-            <td>Operating System</td>
-            <td colspan=3 style="text-align:center">Andorid Kitkat (4.4 SDK 19) or above</td>
+            <td>Browser</td>
+            <td colspan=3 style="text-align:center">Chrome, Edge, Firefox, or Safari</td>
         </tr>
         <tr>
             <td>Processor</td>
-            <td colspan=3 style="text-align:center">arm64-v8a Processor</td>
+            <td colspan=3 style="text-align:center">32-bit or 64-bit processor</td>
         </tr>
         <tr>
             <td>Memory</td>
@@ -97,7 +97,7 @@ Berdasarkan riset dari tim moodo, selain dengan berdoa, journaling juga merupaka
     <tbody>
         <tr>
             <td>Software</td>
-            <td colspan=3 style="text-align:center">VS Code, Android Studio</td>
+            <td colspan=3 style="text-align:center">VS Code, XAMPP</td>
         </tr>
         <tr>
             <td>Hardware</td>
@@ -105,12 +105,12 @@ Berdasarkan riset dari tim moodo, selain dengan berdoa, journaling juga merupaka
         </tr>
         <tr>
             <td>Tech Stack</td>
-            <td colspan=3 style="text-align:center">Flutter Framework with packages from https://pub.dev</td>
+            <td colspan=3 style="text-align:center">Laravel, MySQL, and Apache server</td>
         </tr>
     </tbody>
 </table>
 
-## User Analysis (user profil)
+## User Analysis
 Target dari website moodo adalah semua kalangan yang ingin menuliskan jurnal harian. Ada banyak platform jurnal yang sudah umum digunakan, namun dalam website moodo, tim moodo mengembangkan sebuah fitur menulis jurnal yang berkaitan dengan mood  sehingga user mampu melihat record mood yang dirasakan selama menuliskan jurnal harian. Tidak lupa juga fitur pada moodo-web memungkinkan agar user dapat melihat doa yang terkait dengan jurnal yang ditulis. Doa dilengkapi dengan arab, latin, arti dan tentang doa. 
 
 ### User story
