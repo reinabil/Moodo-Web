@@ -1,4 +1,4 @@
-*previous repository: https://github.com/reinabil/MOODO-WEB-BISMILLAH
+*previous repository: https://github.com/reinabil/MOODO-WEB-BISMILLAH -> broken :(
 # Moodo Web
 > Pelengkap Moodo-App "Jurnal for your daily mood"
     
