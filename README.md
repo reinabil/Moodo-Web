@@ -133,7 +133,7 @@ Target dari website moodo adalah semua kalangan yang ingin menuliskan jurnal har
 - Arsitektur Diagram
     Diagram arsitektur adalah bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip, anasir, dan komponen, termasuk cara kerja maupun petunjuk penggunaannya. Berikut adalah ilustrasi arsitektur diagram pada perangkat lunak Moodo.
     
-     <img src="https://i.imgur.com/lTV9FT1.png" width="500" height="550" />
+     <img src="https://i.imgur.com/lTV9FT1.png"/>
 ### Fungsi Utama 
 1. Register & Log in
        
