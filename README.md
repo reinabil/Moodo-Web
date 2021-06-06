@@ -123,12 +123,16 @@ Target dari website moodo adalah semua kalangan yang ingin menuliskan jurnal har
 - ERD
     atau Entity Relationship Diagram adalah suatu bentuk diagram yang menjelaskan hubungan antar objek-objek data yang mempunyai hubungan antar relasi. Berikut adalah ilustrasi ERD pada perangkat lunak Moodo.
 
+    <img src="https://i.imgur.com/GRHi9ze.png" width="500" height="250" />
+
+- Skema Relasional
+
     <img src="https://trello-attachments.s3.amazonaws.com/60bb200eb6e68d6497665302/1188x892/252a7a5d4fd8c587a55352e1d21f3afe/Inkedchrome_qIh8AijRSt_LI.jpg" width="500" height="350" />
 
 - Class Diagram
     berfungsi untuk menggambarkan struktur sebuah sistem pemrograman. Class diagram banyak memperhatikan hubungan antarkelas dan penjelasan detail tiap kelas dalam pemodelan desain (dalam logical view) dari suatu sistem. Berikut adalah ilustrasi Class Diagram pada perangkat lunak Moodo.
 
-    <img src="https://trello-attachments.s3.amazonaws.com/6020b019834f9a761fda2244/60bb205755445348b444362c/dce1087ae693dcf706ddfc66870383fe/chrome_AJnnkPzU92.png" width="500" height="250" />
+    <img src="https://i.imgur.com/Ux1WTcz.png" width="500" height="300" />
 
 - Arsitektur Diagram
     Diagram arsitektur adalah bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip, anasir, dan komponen, termasuk cara kerja maupun petunjuk penggunaannya. Berikut adalah ilustrasi arsitektur diagram pada perangkat lunak Moodo.
@@ -424,7 +428,3 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo-web
 - [Klik di sini untuk melihat dokumentasi Drive](http://ipb.link/moodo-drive)
 
 ## Saran untuk pengembangan selanjutnya
-
-
-
-
