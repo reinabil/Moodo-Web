@@ -428,3 +428,6 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo-web
 - [Klik di sini untuk melihat dokumentasi Drive](http://ipb.link/moodo-drive)
 
 ## Saran untuk pengembangan selanjutnya
+- Publish ke domain premium
+- Integrasikan dengan Moodo App
+- Lebih dipromosikan lagi agar yang memakai Moodo lebih banyak
